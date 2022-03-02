@@ -95,7 +95,7 @@ http://localhost:3000/ 접속
 
 - 자동완성, 검색 api 요청시 로딩중 귀여운 아이콘으로 로딩중 임을 알린다.
 
-gif 들어갈 자리
+![energy](https://user-images.githubusercontent.com/40172373/156337184-b7921f91-e070-4513-a402-f38171914670.gif)
 
   <br/>
 
