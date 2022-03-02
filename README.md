@@ -4,7 +4,7 @@
 
 # 🔗 배포
 
-[에너지밸런스 과제 배포 링크](https://infallible-panini-19ee47.netlify.app/)
+[에너지밸런스 과제 배포 링크](https://cocky-edison-1b96cb.netlify.app/)
 
 <br/>
 
